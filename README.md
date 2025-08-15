@@ -37,7 +37,7 @@ This was my **first project using HTML & CSS**, where I explored:
 ## 🎥 Project Demo
 Here’s a **screen recording** of the site in action:  
 
-[![Watch the video]](DriverX.mp4)  
+![Watch the video](https://drive.google.com/file/d/1HATyYTxTtwN9_o8WRKebTro2polnzQav/view?usp=drive_link))  
 *(Click the image to watch the demo)*  
 
 ---
