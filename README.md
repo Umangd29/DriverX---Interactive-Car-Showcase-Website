@@ -38,7 +38,7 @@ This was my **first project using HTML & CSS**, where I explored:
 Here’s a **screen recording** of the site in action:  
 
 [▶ Watch the DriverX Demo](https://drive.google.com/file/d/1HATyYTxTtwN9_o8WRKebTro2polnzQav/view?usp=drive_link)
-*(Click the image to watch the demo)*  
+*(Click the link to watch the demo)*  
 
 ---
 
