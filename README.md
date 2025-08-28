@@ -14,7 +14,6 @@ This was my **first project using HTML & CSS**, where I explored:
 - 🏃 Continuous moving text animations  
 - ✨ Smooth page animations  
 
-try the live version online:
 🚀 [Live Demo — DriverX Website](https://umangd29.github.io/DriverX---Interactive-Car-Showcase-Website/)
 ---
 
