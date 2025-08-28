@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Project Overview
+## ✨ Project Overview  
 **DriverX** is a **static website** that showcases various car models in a visually appealing way.  
 This was my **first project using HTML & CSS**, where I explored:  
 - 🎯 Layout designing  
@@ -14,6 +14,8 @@ This was my **first project using HTML & CSS**, where I explored:
 - 🏃 Continuous moving text animations  
 - ✨ Smooth page animations  
 
+try the live version online:
+🚀 [Live Demo — DriverX Website](https://umangd29.github.io/DriverX---Interactive-Car-Showcase-Website/)
 ---
 
 ## 🛠 Tech Stack
